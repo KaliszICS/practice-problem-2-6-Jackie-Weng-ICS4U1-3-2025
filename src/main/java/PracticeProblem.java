@@ -91,7 +91,7 @@ return stepNum;
 		int[] sorted = new int[]{swaps,steps};
 		return sorted;
 	}
-
+//s
 
 
 	public static int[] selectionSort(double[] arr){
